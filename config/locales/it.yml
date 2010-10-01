@@ -19,7 +19,6 @@ it:
   message_updated_issues: Aggiornate %d segnalazioni
   message_budget_settings: Inserire un importo in euro o una percenuale per impostare i valori di default. Usa <strong>%%</strong> nei campi per indicare le percentuali.
   label_non_billable_overhead: Costi non fatturabili
-  label_materials: Materiali
   label_profit: Profitto
   label_new_deliverable: Nuova consegna
   label_fixed_cost: Costo fisso
