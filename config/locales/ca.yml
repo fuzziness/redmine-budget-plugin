@@ -46,3 +46,5 @@ ca:
   label_fixed_amount: "Quantitat fixa: "
   label_hours_estimated: "Hores estimades: "
   label_hours_used: "Hores gastades: "
+  label_issues: "issues:"
+  label_deliverables: "deliverables:"

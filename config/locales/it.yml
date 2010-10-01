@@ -48,6 +48,8 @@ it:
   label_hours_used: "Ore impiegate: "
   label_toggle_all: "Espandi tutte le consegne"
 
+  label_issues: "segnalazioni:"
+  label_deliverables: "consegne:"
   project_module_budget_module: Bilancio
   permission_view_budget: Vedi bilancio
   permission_manage_budget: Gestisci bilancio

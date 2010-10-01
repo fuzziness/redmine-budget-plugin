@@ -45,3 +45,5 @@ es:
   label_fixed_amount: "Cantidad fija: "
   label_hours_estimated: "Horas estimadas: "
   label_hours_used: "Horas usadas: "
+  label_issues: "issues:"
+  label_deliverables: "deliverables:"
